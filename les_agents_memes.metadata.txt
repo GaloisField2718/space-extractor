@@ -1,0 +1,8 @@
+;FFMETADATA1
+major_brand=M4A 
+minor_version=512
+compatible_brands=M4A isomiso2
+title=Les Agents Mèmes. Discutons... 💬
+artist=Galois Field 🧙🧪 | BIP-420
+episode_id=1zqJVYlkvXDGB
+encoder=Lavf61.7.100
