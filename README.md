@@ -52,7 +52,7 @@ Outil en ligne de commande pour télécharger les Spaces Twitter/X en MP3 avec l
 ```
 
 6. **Configuration du cookie**
-    - Installer l'extension "EditThisCookie"
+    - Installer l'extension "Cookie-editor" ou "Cookiebro" sur Chrome store
     - Aller sur Twitter/X
     - Exporter le cookie en JSON
     - Sauvegarder dans ~/.local/share/space_dl/cookie.json
